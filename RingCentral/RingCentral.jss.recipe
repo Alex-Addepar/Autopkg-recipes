@@ -32,7 +32,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>alex-addepar.pkg.RingCentral</string>
+	<string>alex-addepar.download.RingCentral</string>
 	<key>Process</key>
 	<array>
 		<dict>
